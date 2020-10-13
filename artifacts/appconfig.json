@@ -1,7 +1,7 @@
 {
   "name": "agugger-extension",
   "provider": "SAP",
-  "description": "Adrians excelent Extension",
+  "description": "Adrians excellent Extension",
   "version": "1.0.0",
   "icon": "https://www.wired.com/wp-content/uploads/2016/05/1zenXYoSqgLfjTPhqoEKMqg-1.gif",
   "dockerRegistry": "docker.io/adriangugger",
