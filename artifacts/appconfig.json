@@ -6,14 +6,5 @@
   "icon": "https://www.wired.com/wp-content/uploads/2016/05/1zenXYoSqgLfjTPhqoEKMqg-1.gif",
   "dockerRegistry": "docker.io/adriangugger",
   "helmChartVersion": "0.0.1",
-  "parameters": [],
-  "translations": [{
-    "lang": "fr",
-    "name": "La extension",
-    "description": "La extension description",
-  }, {
-    "lang": "de-ch",
-    "name": "Die extension",
-    "description": "Die extension description",
-  }]
+  "parameters": []
 }
